@@ -4,7 +4,7 @@
 
 ## Results
 These 2 charts show that short duration trips under 1 hour are the most common trip taken.
-![Checkout Times for Users](Images/Checkout_Times_for_Users.PNG)
+![Checkout Times for Users](\Images\Checkout_Times_for_Users.PNG)
 
 
 ## Summary
