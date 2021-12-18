@@ -11,6 +11,7 @@ This chart shows the same short duration trips broken down by each gender.  Noti
 ![Checkout Times by Gender](/images/Checkout_Times_by_Gender.PNG)
 
 This chart shows the gender breakdown of riders.  Males outnumber females 2 to 1.
+
 ![Gender Breakdown](/images/Module_Gender.PNG)
 
 This chart shows the breakdown between subscribers and non-subscribers and their usage times.  Customers who subscribe to the bikeshare service have the highest usage across the board.  Many subscribers have peak times during weekdays and may indicate the program is used for commuting.
@@ -40,3 +41,5 @@ Overall, the analysis shows that riders use the service heavily for workplace co
 Visualizations to consider:
 * A count of bikes at each starting location and ending location may show insight on how much repositioning might be required.
 * A correlation between starting and ending locations may show popular routes to know where to position bikes.
+
+[Link to Tableau Visualization](https://public.tableau.com/app/profile/robin8031/viz/Module14ChallengeStory_16397146282200/BikeTripAnalysis)
