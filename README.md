@@ -1,14 +1,12 @@
 # Bikesharing
 
-The written analysis has the following:
+## Purpose of the project
 
-Overview of the statistical analysis:
+## Results
+These 2 charts show that short duration trips under 1 hour are the most common trip taken.
+![Checkout Times for Users](/Images/Checkout_Times_for_Users.PNG)
 
-The purpose of the analysis is well defined. (5 pt)
-Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
+## Summary
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
